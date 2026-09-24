@@ -3,8 +3,8 @@
 
 ##  What I'm Building
 
-<Project name and link to the real project>
+<p> I'm building an app to help communities with their problem </p>
 
 ## Tools I Use
 
-<Languages, frameworks, or tools you actually use>
+<p> Loveable AI, VS Visual code and Gemini </p>
